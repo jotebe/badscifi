@@ -35,9 +35,6 @@ Stealth (2005)
 metropolis 1927
 flatliners 1990
 
-Tremors II
-Tremors III
-
 Dragons Heaven 1988
 Big Hero 6 (2014)
 Trancers (1984)
@@ -238,7 +235,6 @@ The Manhattan Project (1986) (1h57)
 88:88 (2012) (14mins)
 Eidolon (2015) (19mins)
 
-Franklyn (2008) (1h35)
 a.x.l. (2018)
 Mercy (2026)
 
